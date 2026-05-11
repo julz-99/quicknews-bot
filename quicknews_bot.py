@@ -21,7 +21,7 @@ log = logging.getLogger(__name__)
 TELEGRAM_BOT_TOKEN  = "8588761754:AAGQM5I8eISCNfpz351S9ObWE1dIYLjWfjI"
 TELEGRAM_CHANNEL_ID = "-1003956815615"
 ANTHROPIC_API_KEY   = "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"
-MIN_SCORE = 7
+MIN_SCORE = 5
 
 RSS_FEEDS = [
     {"name": "Reuters Markets",  "url": "https://feeds.reuters.com/reuters/marketsNews"},
